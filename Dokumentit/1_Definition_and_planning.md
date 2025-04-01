@@ -74,6 +74,8 @@ Käyttöliittymä sisältää seuraavat osiot:
 
 UI suunnitellaan responsiiviseksi, jotta se toimii sekä tietokoneella että mobiililaitteilla.
 
+![UI Proto](Käyttöliittymävedos2.png)
+
 ## 4. Information Architecture and Technical Design
 
 ### **4.1 Tietomalli**
